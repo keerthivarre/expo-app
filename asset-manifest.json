@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/expo-app/static/js/app.bd08e8e0.chunk.js",
+    "app.js.map": "/expo-app/static/js/app.bd08e8e0.chunk.js.map",
+    "runtime~app.js": "/expo-app/static/js/runtime~app.bc92a3a5.js",
+    "runtime~app.js.map": "/expo-app/static/js/runtime~app.bc92a3a5.js.map",
+    "static/js/2.1ef8c73c.chunk.js": "/expo-app/static/js/2.1ef8c73c.chunk.js",
+    "static/js/2.1ef8c73c.chunk.js.map": "/expo-app/static/js/2.1ef8c73c.chunk.js.map",
+    "favicon-16.png": "/expo-app/favicon-16.png",
+    "favicon-32.png": "/expo-app/favicon-32.png",
+    "favicon.ico": "/expo-app/favicon.ico",
+    "index.html": "/expo-app/index.html",
+    "manifest.json": "/expo-app/manifest.json",
+    "serve.json": "/expo-app/serve.json",
+    "static/js/2.1ef8c73c.chunk.js.LICENSE.txt": "/expo-app/static/js/2.1ef8c73c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.bc92a3a5.js",
+    "static/js/2.1ef8c73c.chunk.js",
+    "static/js/app.bd08e8e0.chunk.js"
+  ]
+}
