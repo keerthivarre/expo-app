@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/expo-app/static/js/app.8292aa6a.chunk.js",
-    "app.js.map": "/expo-app/static/js/app.8292aa6a.chunk.js.map",
+    "app.js": "/expo-app/static/js/app.70f25f52.chunk.js",
+    "app.js.map": "/expo-app/static/js/app.70f25f52.chunk.js.map",
     "runtime~app.js": "/expo-app/static/js/runtime~app.bc92a3a5.js",
     "runtime~app.js.map": "/expo-app/static/js/runtime~app.bc92a3a5.js.map",
-    "static/js/2.5b5b5e90.chunk.js": "/expo-app/static/js/2.5b5b5e90.chunk.js",
-    "static/js/2.5b5b5e90.chunk.js.map": "/expo-app/static/js/2.5b5b5e90.chunk.js.map",
+    "static/js/2.35c690c5.chunk.js": "/expo-app/static/js/2.35c690c5.chunk.js",
+    "static/js/2.35c690c5.chunk.js.map": "/expo-app/static/js/2.35c690c5.chunk.js.map",
     "fonts/AntDesign.ttf": "/expo-app/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/expo-app/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/expo-app/./fonts/Feather.ttf",
@@ -24,7 +24,7 @@
     "index.html": "/expo-app/index.html",
     "manifest.json": "/expo-app/manifest.json",
     "serve.json": "/expo-app/serve.json",
-    "static/js/2.5b5b5e90.chunk.js.LICENSE.txt": "/expo-app/static/js/2.5b5b5e90.chunk.js.LICENSE.txt",
+    "static/js/2.35c690c5.chunk.js.LICENSE.txt": "/expo-app/static/js/2.35c690c5.chunk.js.LICENSE.txt",
     "static/media/bell.png": "/expo-app/static/media/bell.cf04af27.png",
     "static/media/heart.png": "/expo-app/static/media/heart.23b5c2c0.png",
     "static/media/rocket.png": "/expo-app/static/media/rocket.d2f3bf41.png",
@@ -32,7 +32,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.bc92a3a5.js",
-    "static/js/2.5b5b5e90.chunk.js",
-    "static/js/app.8292aa6a.chunk.js"
+    "static/js/2.35c690c5.chunk.js",
+    "static/js/app.70f25f52.chunk.js"
   ]
 }
